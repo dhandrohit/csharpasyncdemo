@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRH2n/Gqh7cz7K6IAlrbc5qoaw4/5Q5VlpkTlbhV86LzyStDudhTQh0eVzptwz3xVyrT7WdMe6USVn/qTJhVrA==",
+  "success": true,
+  "projectFilePath": "/Users/rohit/temp/asp.net angular/AsyncDemo/AsyncDemo/AsyncDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/rohit/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rohit/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/rohit/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
